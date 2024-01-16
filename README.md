@@ -1,5 +1,18 @@
 
 
+
+🌐 Web Development
+🎨 FrontEnd
+⚙️ BackEnd
+🧑‍💻 Coding
+👥 Tech Community
+☕️ Javascript
+🖌️ CSS
+🏗️ Building online
+⚛️ React
+📂 Open Source
+💻 Software Development
+
 <article class="markdown-body entry-content container-lg f5" itemprop="text"><h2 dir="auto"><a id="user-content-hello-im-Muhammad-Farqan" class="anchor" aria-hidden="true" tabindex="-1" href="#hello-im-waqas-iqbal"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Hello👋 I'm Muhammad Farqan&zwj;💻</h2>
 <p dir="auto">A well-qualified Full-Stack Developer is familiar with a wide range of programming utilities and languages. Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease. Collaborative team player with excellent technical abilities offering 7 years of related experience.</p>
 <p dir="auto"><a href="https://github.com/furqanameen/"><img src="https://camo.githubusercontent.com/e683786796a8919bfa925ea250e516fe8bb178b79c7c2748bc69581b7fc2639e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4749544855422d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GITHUB-blue?style=for-the-badge&amp;logo=github" style="max-width: 100%;"></a>

@@ -1,4 +1,43 @@
 Projects and features:
+# Project: uGlobal Platform
+## Link: https://www.uglobal.com/
+## Responsibilities and Achievements
+
+### Full-Stack Development
+- Actively engaged in all aspects of the project's lifecycle.
+- Utilized Ruby on Rails and Bootstrap to craft responsive and user-friendly interfaces.
+- Ensured seamless navigation and accessibility across devices.
+
+### Pair Programming
+- Embraced pair programming methodologies to enhance efficiency and code quality.
+- Collaborated closely with team members to address challenges and optimize codebase architecture.
+
+### End-to-End Management
+- Led end-to-end phases of the project, including development, rigorous testing, and deployment strategies.
+- Orchestrated deployments on DigitalOcean using Dokku, ensuring smooth and reliable application delivery.
+- Leveraged expertise in server configuration and deployment automation.
+
+### Version Control
+- Employed Git for version control to maintain a structured and organized codebase.
+- Facilitated collaboration and enabled seamless integration of new features and enhancements.
+
+### Team Leadership
+- Provided guidance and mentorship to newly onboarded developers.
+- Facilitated integration into the project and ensured alignment with best practices and project standards.
+
+### Integration of Third-Party APIs
+- Seamlessly integrated various Salesforce APIs and third-party services to enrich the platform's functionality.
+- Enhanced user experience in response to business requirements.
+
+### Elasticsearch Implementation
+- Implemented Elasticsearch to optimize search functionality and improve user engagement.
+- Significantly enhanced the platform's search capabilities and responsiveness.
+
+### Client Communication
+- Actively communicated with clients to gather requirements and ensure alignment with project objectives.
+- Leveraged project management tools to facilitate efficient collaboration and milestone tracking.
+
+
 Vectricity: This project implements an IoT-based system for monitoring and managing home energy consumption.
 Real-time data acquisition and visualization of sensor data and appliance consumption. Tariff management for sensors
 with meter reading algorithms for individual phases. Separate meter readings and billing for each appliance.

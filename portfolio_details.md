@@ -1,6 +1,9 @@
-Projects and features:
 # Project: uGlobal Platform
 ## Link: https://www.uglobal.com/
+# Project: opportunityzone
+## Link: https://www.opportunityzone.com/ 
+# Project: RealEstat
+- These three Projects I had been managing.
 ## Responsibilities and Achievements
 
 ### Full-Stack Development
@@ -37,6 +40,50 @@ Projects and features:
 - Actively communicated with clients to gather requirements and ensure alignment with project objectives.
 - Leveraged project management tools to facilitate efficient collaboration and milestone tracking.
 
+> [!IMPORTANT]
+> Server Migration: Successfully migrated a real estate website from one server to another (from Linode to another hosting provider). Configured the server efficiently and migrated all data, including databases and images, without any data loss within a short timeframe.
+
+---
+
+# EZ-Sign Project Overview
+
+EZ-Sign is a web-based marketing tool serving a vast user base of 23 million clients. It automates client acquisition, data management, and tax refund claims, leveraging various technologies for efficient operation and enhanced user productivity.
+
+## Key Responsibilities and Achievements:
+
+- **Marketing Campaign Management:**
+  - Created, managed, and tracked various marketing campaigns for client acquisition, employing both Inbound and Outbound strategies.
+  - Implemented innovative features to enhance campaign effectiveness and user engagement.
+
+- **CI/CD Implementation and Automation:**
+  - Spearheaded the implementation of Continuous Integration/Continuous Deployment (CI/CD) processes and tools, with a preference for GitHub.
+  - Established automated testing frameworks and best practices, ensuring code quality and reliability throughout the development lifecycle.
+
+- **Onboarding Optimization:**
+  - Significantly reduced onboarding duration from months to days, streamlining the user adoption process.
+  - Boosted user productivity by 80% through the introduction of innovative features and user-friendly interfaces.
+
+- **Technology Stack:**
+  - Developed the application using Ruby on Rails, incorporating front-end technologies such as Tailwind CSS and Stimulus.js.
+  - Integrated third-party APIs seamlessly into the system, enhancing functionality and extending capabilities.
+  - Implemented RESTful APIs, enabling marketing companies to interact with EZ-Sign and send data efficiently.
+
+- **Inbound/Outbound Tracking Integration:**
+  - Integrated various Inbound and Outbound tracking APIs, including CXM and Dialer, to gather valuable insights and optimize marketing efforts.
+  - Ensured smooth communication between EZ-Sign and external systems, facilitating data exchange and analysis.
+
+- **Server Management and Security:**
+  - Demonstrated expertise in server management, including horizontal scaling and configuration for application deployment.
+  - Implemented security measures such as fail2ban to enhance server security and protect against unauthorized access.
+  - Ensured application stability on the server, deploying improvements and updates with minimal downtime.
+
+- **Deployment Automation:**
+  - Implemented automation for deployment processes using Docker, Dokku, and Capistrano, streamlining deployment workflows and reducing manual intervention.
+  - Successfully migrated servers and data, ensuring continuity of service and minimal disruption to users.
+
+![screenshot](projects/introducer_page.png)
+![screenshot](projects/ez-sign-main-page.png)
+![screenshot](projects/ezsign-co-uk-dashboard-home.png)
 
 Vectricity: This project implements an IoT-based system for monitoring and managing home energy consumption.
 Real-time data acquisition and visualization of sensor data and appliance consumption. Tariff management for sensors

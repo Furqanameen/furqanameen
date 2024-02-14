@@ -85,29 +85,76 @@ EZ-Sign is a web-based marketing tool serving a vast user base of 23 million cli
 ![screenshot](projects/ez-sign-main-page.png)
 ![screenshot](projects/ezsign-co-uk-dashboard-home.png)
 
-Vectricity: This project implements an IoT-based system for monitoring and managing home energy consumption.
-Real-time data acquisition and visualization of sensor data and appliance consumption. Tariff management for sensors
-with meter reading algorithms for individual phases. Separate meter readings and billing for each appliance.
-Cyclic billing management through the administration panel. Customizable reports and insights into energy
-consumption patterns.
-Ez-sign: is a web-based marketing tool designed to automate client acquisition, data management, and tax refund
-claims. It caters to a vast user base of 23 million clients and leverages a suite of technologies for efficient operation.
-Create, manage, and track various marketing campaigns for client acquisition based on Inbound/Outbound.
-Implemented CI/CD processes and tools, automated testing frameworks and practices - preferably GitHub
-Reduced onboarding duration from months to days, and boosted user productivity by 80% with innovative features.
-Brooksdale CRM: Overall, Brooksdale CRM is a comprehensive and secure platform that leverages modern
-technologies and best practices to streamline tax rebate management for UK citizens. The integration with Salesforce
-and third-party APIs, coupled with robust security layers and development/testing practices, contributes to its
-efficiency and reliability.
-Implementing features that boosted user productivity by 50%, while reducing manual tasks from months to days.
-Integrations: Salesforce APIs (CXM, Dailer), Third-party APIs, Security layers (Fail2ban, Cloudflare)
-Link: https://fulfillment.global/
-Fulfillment Application: is a comprehensive software solution designed to streamline warehouse operations and
-optimize resource utilization. This system empowers users to manage inventory, organize resources, and staff
-effectively, and direct material movement within and outside the warehouse. and diverse technology stack make it a
-valuable asset for any organization seeking to optimize its logistics and supply chain management.
-Throughout my professional journey, I have successfully contributed to a diverse range of projects, showcasing my
-versatility in handling various domains. From (LMS) to (CMS), (CRM), e-commerce platforms, and Real Estate
-solutions, I have demonstrated my expertise across a broad spectrum of project types. This extensive experience has
-honed my skills in adapting to different industries and delivering successful outcomes across diverse project
-landscapes.
+#  E-commerce Platform
+  Had a greate experince on different kind of E-commerce/shopify
+## Key Responsibilities and Achievements:
+- User authentication (customer, merchant, admin, Custom product designing)
+- Implemented ElasticSearch to make search effective from Database retrivall
+- Implementing Multi-Tenancy in Rails with Apartment-gem
+- Developed Completed Rest APIS and Led on this project
+- Secure checkout process with payment processing
+- Order management and fulfillment
+- Inventory management/Reviews and ratings
+- Admin dashboard for managing products, orders, and users, Payment etc
+
+# Online Learning Platform(LMS)
+ - Have been Designing/developing An online learning platform. Where I played estentails role to manage comlete LMS system and developed REST API's also.
+
+## Key Responsibilities and Achievements:
+
+- User authentication (student, instructor, admin, Organizations)
+- Course catalog with search and filter options
+- Course creation with video uploads, quizzes, and assignments
+- Progress tracking and reporting
+- User profiles with course enrollment and completion history
+- Reviews and ratings
+- Admin dashboard for managing courses, users, students, Organizations, and site content etc
+- Have been manageging completely projects from development to deployment on server as well.
+
+# Customer Relationship Management (CRM) System
+
+## Key Responsibilities and Achievements:
+- Brooksdale CRM: Overall, Brooksdale CRM is a comprehensive and secure platform that leverages modern
+  technologies and best practices to streamline tax rebate management for UK citizens. The integration with Salesforce
+- User authentication with various roles (admin, salesperson, support)
+- Contact management for customers and leads
+- Sales pipeline and deal tracking
+- Task and appointment scheduling
+- Email integration for communication tracking
+- Reports and analytics for sales performance
+- Admin dashboard for user and data management
+- Have been managing multiple CRMs overall and integrated many thurd party apis.
+- Integrated Inbound/Outbound Api in different CRM/LMS etc
+- Implemented CI/CD processes and tools, automated testing frameworks and practices - preferably GitHub
+
+![screenshot](projects/crm-brooksdale-co-uk-dashboard.png)
+![screenshot](projects/CRM-PAYMENT-page.png)
+![screenshot](projects/fulfillment-global.png)
+
+# Vectricity: 
+- This project implements an IoT-based system for monitoring and managing home energy consumption.
+  Real-time data acquisition and visualization of sensor data and appliance consumption. Tariff management for sensors
+- with meter reading algorithms for individual phases. Separate meter readings and billing for each appliance.
+  Cyclic billing management through the administration panel. Customizable reports and insights into energy
+  consumption patterns.
+# Ez-sign: 
+- is a web-based marketing tool designed to automate client acquisition, data management, and tax refund
+  claims. It caters to a vast user base of 23 million clients and leverages a suite of technologies for efficient operation.
+- Create, manage, and track various marketing campaigns for client acquisition based on Inbound/Outbound.
+- Implemented CI/CD processes and tools, automated testing frameworks and practices - preferably GitHub
+- Reduced onboarding duration from months to days, and boosted user productivity by 80% with innovative features.
+
+- and third-party APIs, coupled with robust security layers and development/testing practices, contributes to its
+  efficiency and reliability.
+- Implementing features that boosted user productivity by 50%, while reducing manual tasks from months to days.
+- Integrations: Salesforce APIs (CXM, Dailer), Third-party APIs, Security layers (Fail2ban, Cloudflare)
+## Link: https://fulfillment.global/
+
+# Fulfillment Project: 
+- is a comprehensive software solution designed to streamline warehouse operations and
+  optimize resource utilization. This system empowers users to manage inventory, organize resources, and staff
+  effectively, and direct material movement within and outside the warehouse. and diverse technology stack make it a valuable asset for any organization seeking to optimize its logistics and supply chain management.
+- Throughout my professional journey, I have successfully contributed to a diverse range of projects, showcasing my
+  versatility in handling various domains. From (LMS) to (CMS), (CRM), e-commerce platforms, and Real Estate
+  solutions, I have demonstrated my expertise across a broad spectrum of project types. This extensive experience has honed my skills in adapting to different industries and delivering successful outcomes across diverse project
+ landscapes.

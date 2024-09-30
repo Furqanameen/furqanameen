@@ -12,6 +12,7 @@
 📂 Open Source Projects
 💻 Software Development</br>
 </br>
+  
 <p dir="auto"><a href="https://github.com/furqanameen/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/muhammad-farqan-73b04b11b/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
 <a href="mailto:furqanbinameen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a></p>

@@ -10,7 +10,7 @@
 🏗️ Building online
 ⚛️ React
 📂 Open Source Projects
-💻 Software Development</br>
+💻 Software Development.</br>
 </br>
   
 <p dir="auto"><a href="https://github.com/furqanameen/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>

@@ -13,7 +13,8 @@
 💻 Software Development.</br>
 </br>
 
-<br>🌐 I have Hands-on experience with AI/ML frameworks and methodologies
+<br> <h1>🌐 I have Hands-on experience with AI/ML frameworks and methodologies </h1>
+<br> 
    I have worked using Python for automation. I used different ML models, where tools like pandas, Matplotlib, Scrapy, BeautifulSoup, Pipenv, and Numpy.
 Techniques such as normalization, standardization, and handling missing data are fundamental.
 

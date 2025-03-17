@@ -20,7 +20,7 @@ Techniques such as normalization, standardization, and handling missing data are
 
 Also, I worked on some libraries such as scikit-learn, NLP, NLTK, and some others libraries and implemented sentiment analysis on different sites like AWS and Daraz for products.
 
-Furthermore, I mentored training models for extracting some info from clients' emails for our big data where I led and managed completely this project https://fulfillment.glob
+Furthermore, I mentored training models for extracting some info from clients' emails for our big data where I led and managed entirely  this project [https://fulfillment.glob](https://fulfillment.global/)
 That project was developed in Ruby on Rails, but I also created documentation for our various partners.
 
 https://roomy.co.za/

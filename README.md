@@ -12,6 +12,20 @@
 📂 Open Source Projects
 💻 Software Development.</br>
 </br>
+
+<br>🌐 I have Hands-on experience with AI/ML frameworks and methodologies
+   I have worked using Python for automation. I used different ML models, where tools like pandas, Matplotlib, Scrapy, BeautifulSoup, Pipenv, and Numpy.
+Techniques such as normalization, standardization, and handling missing data are fundamental.
+
+Also, I worked on some libraries such as scikit-learn, NLP, NLTK, and some others libraries and implemented sentiment analysis on different sites like AWS and Daraz for products.
+
+Furthermore, I mentored training models for extracting some info from clients' emails for our big data where I led and managed completely this project https://fulfillment.glob
+That project was developed in Ruby on Rails, but I also created documentation for our various partners.
+
+https://roomy.co.za/
+
+Additionally, I mentored for this product, where we trained models in Python using various libraries to fulfill our client’s requirements.
+</br>
   
 <p dir="auto"><a href="https://github.com/furqanameen/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/muhammad-farqan-73b04b11b/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>

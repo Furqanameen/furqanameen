@@ -27,6 +27,31 @@ https://roomy.co.za/
 
 Additionally, I mentored for this product, where we trained models in Python using various libraries to fulfill our client’s requirements.
 </br>
+
+<h2 id="msc-cybersecurity">🎓 MSc in Cybersecurity</h2>
+<p>
+I am currently pursuing my <strong>MSc in Cybersecurity</strong>, where I have developed a strong foundation in:
+</p>
+
+<ul>
+  <li>🔐 Fundamentals of Digital and Cyber Security</li>
+  <li>📘 Foundations of Cyber Security & Governance</li>
+  <li>📑 Cybersecurity Management and Compliance</li>
+</ul>
+
+<p>
+As part of my practical lab work and experiments, I have used various professional digital forensics tools and techniques including:
+</p>
+
+<ul>
+  <li>🧰 Autopsy for disk and mobile forensics</li>
+  <li>📱 Android forensics investigations</li>
+  <li>🕵️ Drone forensics analysis</li>
+  <li>💾 Disk imaging and evidence preservation</li>
+  <li>📧 Email forensics and .PST file analysis using FTK Imager</li>
+  <li>🛠️ Image creation and data carving</li>
+</ul>
+
   
 <p dir="auto"><a href="https://github.com/furqanameen/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/muhammad-farqan-73b04b11b/" rel="nofollow"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>

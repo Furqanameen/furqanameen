@@ -35,7 +35,13 @@ I am currently pursuing my <strong>MSc in Cybersecurity</strong>, where I have d
 
 <ul>
   <li>🔐 Fundamentals of Digital and Cyber Security</li>
-  <li>📘 Foundations of Cyber Security & Governance</li>
+  <li>📘 Foundations of Cyber Security & Governance
+    <ul>
+      <li>🛡️ Hands-on learning of DDoS attack simulation and mitigation</li>
+      <li>🖥️ Server setup, hardening, and securing using Kali Linux, Windows, and Ubuntu</li>
+      <li>🔒 Implementing best practices for OS-level security and firewall configuration</li>
+    </ul>
+  </li>
   <li>📑 Cybersecurity Management and Compliance</li>
 </ul>
 
@@ -51,6 +57,7 @@ As part of my practical lab work and experiments, I have used various profession
   <li>📧 Email forensics and .PST file analysis using FTK Imager</li>
   <li>🛠️ Image creation and data carving</li>
 </ul>
+
 
   
 <p dir="auto"><a href="https://github.com/furqanameen/"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"></a>

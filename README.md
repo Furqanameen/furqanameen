@@ -2,7 +2,7 @@
 <p>
   A highly qualified Full-Stack Developer with over <strong>7 years of experience</strong> building robust, scalable, and maintainable web applications.
   Proficient in both frontend and backend technologies, I’m also actively engaged in the cybersecurity field.
-  Currently pursuing my <strong>MSc in Cybersecurity</strong> at <strong>University of the West of Scotland (UWS), London Campus, UK</strong>.
+  <strong>MSc in Cybersecurity</strong> at <strong>University of the West of Scotland (UWS), London Campus, UK</strong>.
 </p>
 
 <h3>💻 Technical Expertise</h3>

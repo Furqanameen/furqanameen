@@ -7,7 +7,7 @@
 
 <h3>💻 Technical Expertise</h3>
 <ul>
-  <li>🌐 Web Development (Frontend & Backend)</li>
+  <li>🌐 Web Development (Frontend & Backend) in RUBY on Rails | MERN </li>
   <li>⚛️ React, JavaScript, CSS, HTML5, Bootstrap</li>
   <li>🧠 AI/ML (Python, Scikit-learn, Pandas, NLP, NLTK)</li>
   <li>🔍 Web Scraping (Scrapy, BeautifulSoup)</li>

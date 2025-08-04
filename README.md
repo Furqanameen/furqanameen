@@ -32,26 +32,64 @@ Furthermore, I mentored training models for extracting some info from clients' e
 <a href="https://roomy.co.za/" target="_blank">https://roomy.co.za/</a>
 </p>
 
-<h3>🎓 MSc Cybersecurity (UWS - London Campus)</h3>
-<p>
-  My academic and practical exposure includes:
-</p>
-<ul>
-  <li>🔐 Digital & Cybersecurity Fundamentals</li>
-  <li>🛡️ DDoS Simulation & Mitigation</li>
-  <li>🖥️ OS Hardening on Kali, Windows, Ubuntu</li>
-  <li>💼 Cybersecurity Management & GDPR Compliance</li>
-  <li>🧪 Risk Assessment & Threat Modelling</li>
-</ul>
+## 🎓 MSc Cybersecurity (UWS - London Campus)
 
-<h3>🔍 Cybersecurity Practical Experience</h3>
-<ul>
-  <li>💾 Disk Forensics: Autopsy, FTK Imager, .PST analysis</li>
-  <li>📱 Android & Drone Forensics Investigations</li>
-  <li>🛠️ Web Application Penetration Testing (Burp Suite, OWASP ZAP)</li>
-  <li>🕵️‍♂️ Vulnerability Assessment (Nmap, Nessus)</li>
-  <li>🔐 Network Security & Snort IDS Rule Creation</li>
-</ul>
+**MSc in Cybersecurity, University of the West of Scotland (London Campus)**  
+Hands-on expertise in securing digital assets, uncovering threats, and delivering actionable intelligence for businesses worldwide.
+
+---
+
+### 🧑‍🎓 Academic and Practical Exposure
+- 🔐 **Digital & Cybersecurity Fundamentals**
+- 🛡️ **DDoS Simulation & Mitigation**
+- 🖥️ **OS Hardening:** Kali, Windows, Ubuntu
+- 💼 **Cybersecurity Management & GDPR Compliance**
+- 🧪 **Risk Assessment & Threat Modelling**
+
+---
+
+### 🕵️‍♂️ Digital Forensics Specialist
+- **Comprehensive Forensics:** Digital, email, disk, and drone forensics — preserving, analyzing, and reporting on digital evidence for investigations, compliance, and litigation support.
+- **Incident Response:** Rapid triage and response to breaches, malware, and insider threats.
+- **Chain of Custody:** Maintaining evidence integrity for regulatory and legal requirements.
+
+---
+
+### 🛡️ Penetration Testing & Offensive Security
+- **Web & Network Pentesting:** Identify and exploit vulnerabilities in web applications, servers, APIs, and cloud infrastructure.
+- **Red Teaming & Adversary Simulation:** Real-world attack simulations to assess and improve your defenses.
+- **Vulnerability Exploitation:** SQL Injection, XSS, CSRF, SSRF, privilege escalation, server misconfigurations.
+- **Server & Application Security:** Linux/Windows hardening, patch management, and secure deployments.
+
+---
+
+### 🛠️ Tools & Technologies
+- **Scanning & Recon:** Nmap, Nessus, Burp Suite, Nikto, OpenVAS, Shodan, Maltego, Recon-ng, theHarvester
+- **Traffic & Packet Analysis:** Wireshark, tcpdump, Zeek, Suricata, Snort
+- **Forensics:** Autopsy, FTK Imager, Sleuth Kit, Volatility, Magnet AXIOM
+- **Password Auditing:** John the Ripper, Hashcat, Hydra
+- **Exploitation Frameworks:** Metasploit, Cobalt Strike, Empire
+- **Automation & Scripting:** Python, Bash, PowerShell
+- **Specialized Forensics:** Email, disk, and drone data extraction and analysis
+
+---
+
+### 🛡️ Defensive Security
+- **Vulnerability Management:** Full-stack scans, risk prioritization, and remediation
+- **SIEM & Monitoring:** Splunk, ELK stack, and custom alerting
+- **Firewall, IDS/IPS:** Setup, tuning, and management (Snort, Suricata, Zeek)
+- **Incident Documentation:** Clear, actionable reports with remediation steps
+
+---
+
+### 💬 Why Clients Trust Me
+- **Advanced degree holder (MSc Cybersecurity)** — combining academic excellence with real-world knowledge
+- **Practical experience** — both offensive (Red Team) and defensive (Blue Team)
+- **Actionable reporting** — clear findings, risk scores, and next steps
+- **Strict confidentiality** — your data, business, and clients are always secure
+- **Up-to-date skills** — active in CTFs, bug bounties, and ongoing security research
+
+**Industries Served:** SaaS, Fintech, Healthcare, Retail, SMEs, eCommerce, EdTech
 
 <h3>🚀 Some Notable Projects</h3>
 <ul>

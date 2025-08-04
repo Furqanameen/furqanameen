@@ -1,36 +1,45 @@
-<h2 id="hello-im-muhammad-farqan">👋 Hello, I'm Muhammad Farqan</h2>
-<p>
-  A highly qualified Full-Stack Developer with over <strong>7 years of experience</strong> building robust, scalable, and maintainable web applications.
-  Proficient in both frontend and backend technologies, I’m also actively engaged in the cybersecurity field.
-  <strong>MSc in Cybersecurity</strong> at <strong>University of the West of Scotland (UWS), London Campus, UK</strong>.
-</p>
+## 👋 Hello, I'm Muhammad Farqan
 
-<h3>💻 Technical Expertise</h3>
-<ul>
-  <li>🌐 Web Development (Frontend & Backend) in RUBY on Rails | MERN </li>
-  <li>⚛️ React, JavaScript, CSS, HTML5, Bootstrap</li>
-  <li>🧠 AI/ML (Python, Scikit-learn, Pandas, NLP, NLTK)</li>
-  <li>🔍 Web Scraping (Scrapy, BeautifulSoup)</li>
-  <li>🧰 DevOps & Deployment (Docker, AWS, DigitalOcean, GoDaddy)</li>
-  <li>📚 Database Systems (PostgreSQL, MongoDB, MySQL)</li>
-  <li>🧑‍💻 Git, VSCode, Node.js, Bash, C++</li>
-  <li>📱 Flutter for Mobile Apps</li>
-</ul>
+A highly qualified **Full-Stack Developer** with over **7 years of experience** building robust, scalable, and maintainable web applications.  
+Proficient in both frontend and backend technologies, I’m also an active contributor in the **AI/ML** and **cybersecurity** space.  
+**MSc in Cybersecurity** from the **University of the West of Scotland (UWS), London Campus, UK**.
 
-<h3>🧠 AI & Machine Learning</h3>
-<p>
-🌐 I have Hands-on experience with AI/ML frameworks and methodologies
-</p>
-<p>
-I have worked using Python for automation. I used different ML models, where tools like pandas, Matplotlib, Scrapy, BeautifulSoup, Pipenv, and Numpy. Techniques such as normalization, standardization, and handling missing data are fundamental.  
-Also, I worked on some libraries such as scikit-learn, NLP, NLTK, and some others libraries and implemented sentiment analysis on different sites like AWS and Daraz for products.
-</p>
-<p>
-Furthermore, I mentored training models for extracting some info from clients' emails for our big data where I led and managed entirely this project <a href="https://fulfillment.global" target="_blank">https://fulfillment.glob</a>. That project was developed in Ruby on Rails, but I also created documentation for our various partners.
-</p>
-<p>
-<a href="https://roomy.co.za/" target="_blank">https://roomy.co.za/</a>
-</p>
+---
+
+### 💻 Technical Expertise
+
+- 🌐 **Web Development (Frontend & Backend):** Ruby on Rails | MERN Stack
+- ⚛️ **Frontend:** React, JavaScript, TypeScript, CSS, HTML5, Bootstrap, Tailwind
+- 🧠 **AI & LLMs:** Python, Scikit-learn, Pandas, Numpy, TensorFlow, PyTorch, spaCy, NLTK, LangChain, FastAPI, GPT-4, GPT-4o, LLaMA, RAG, LoRA, Stable Diffusion, OpenAI API
+- 🔍 **Web Scraping:** Scrapy, BeautifulSoup
+- 🧰 **DevOps & Deployment:** Docker, AWS, DigitalOcean, GoDaddy, Capistrano, Nginx, GitHub Actions, CI/CD
+- 📚 **Databases:** PostgreSQL, MongoDB, MySQL, Redis
+- 🧑‍💻 **Tools & Languages:** Git, VSCode, Node.js, Bash, C++, PowerShell
+- 📱 **Mobile Apps:** Flutter, React Native
+
+**Portfolio:**  
+- [Happen](https://happen.co.uk/)  
+- [Fulfillment.Global](https://fulfillment.global/)  
+- [Roomy](https://roomy.co.za/)  
+- [UGlobal](https://uglobal.com/)  
+- [Lahanur](https://www.lahanur.com/)
+
+---
+
+### 🧠 AI, Machine Learning & LLMs
+
+I have hands-on experience with leading **AI/ML frameworks and LLMs** for real-world business automation:
+
+- **Python Automation:** Used for end-to-end ML pipelines, including data cleaning, normalization, and feature engineering.
+- **ML Libraries:** pandas, Matplotlib, Scrapy, BeautifulSoup, Numpy, Scikit-learn, Pipenv.
+- **NLP & LLMs:** NLP, NLTK, spaCy, LangChain, FastAPI, OpenAI API, GPT-4, GPT-4o, LLaMA, RAG, LoRA.
+- **AI Workflows:** Sentiment analysis, document classification, chatbot development, and data extraction from client emails (see: [Fulfillment.Global](https://fulfillment.global/)).
+- **Computer Vision:** Stable Diffusion, SDXL, YOLO, OpenCV.
+- **Deployment:** ML models deployed on AWS, RunPod, Docker, and DigitalOcean.
+
+I’ve led and mentored projects such as **automated info extraction from client emails** for big data analytics, including full pipeline and documentation ([Fulfillment.Global](https://fulfillment.global/)).  
+For more SaaS and API-driven solutions, check [Roomy](https://roomy.co.za/) and [UGlobal](https://uglobal.com/).
+
 
 ## 🎓 MSc Cybersecurity (UWS - London Campus)
 

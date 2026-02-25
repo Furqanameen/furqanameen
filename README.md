@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Muhammad Farqan
 
-A highly qualified **Full-Stack Developer** with over **7 years of experience** building robust, scalable, and maintainable web applications.  
+A highly qualified **Full-Stack Developer** with over **7+ years of experience** building robust, scalable, and maintainable web applications.  
 Proficient in both frontend and backend technologies, I’m also an active contributor in the **AI/ML** and **cybersecurity** space.  
 **MSc in Cybersecurity** from the **University of the West of Scotland (UWS), London Campus, UK**.
 

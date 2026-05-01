@@ -8,7 +8,7 @@ Proficient in both frontend and backend technologies, I’m also an active contr
 
 ### 💻 Technical Expertise
 
-- 🌐 **Web Development (Frontend & Backend):** Ruby on Rails | MERN Stack
+- 🌐 **Web Development (Frontend & Backend):** ROR | Python Django | MERN Stack
 - ⚛️ **Frontend:** React, JavaScript, TypeScript, CSS, HTML5, Bootstrap, Tailwind
 - 🧠 **AI & LLMs:** Python, Scikit-learn, Pandas, Numpy, TensorFlow, PyTorch, spaCy, NLTK, LangChain, FastAPI, GPT-4, GPT-4o, LLaMA, RAG, LoRA, Stable Diffusion, OpenAI API
 - 🔍 **Web Scraping:** Scrapy, BeautifulSoup

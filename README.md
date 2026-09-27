@@ -122,10 +122,3 @@ Hands-on expertise in securing digital assets, uncovering threats, and deliverin
   <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=Notion&logoColor=white">
 </p>
 
-<h3>📬 Contact Me</h3>
-<p>
-  <a href="mailto:furqanbinameen@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/muhammad-farqan-73b04b11b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"></a>
-  <a href="https://calendly.com/furqanbinameen" target="_blank"><img src="https://img.shields.io/badge/Calendly-006BFF.svg?style=for-the-badge&logo=Calendly&logoColor=white"></a>
-  <a href="https://www.buymeacoffee.com/farqan" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
-</p>
